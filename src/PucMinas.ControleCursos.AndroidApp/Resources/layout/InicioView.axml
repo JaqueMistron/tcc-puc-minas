@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Início"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtInicio" />
+    <Button
+        android:text="Consultar Aluno"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCadAluno" />
+    <Button
+        android:text="Consultar Curso"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCadCurso" />
+    <Button
+        android:text="Consultar Matrícula"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnMatricular" />
+    <Button
+        android:text="Consultar Avaliação"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCadAvaliacao" />
+    <Button
+        android:text="Consultar Nota"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCadNota" />
+    <Button
+        android:text="Emitir Boletim"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnEmitirBoletim" />
+    <Space
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:id="@+id/space1" />
+    <Button
+        android:text="Sair"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#307FC1"
+        android:id="@+id/btnSair" />
+</LinearLayout>

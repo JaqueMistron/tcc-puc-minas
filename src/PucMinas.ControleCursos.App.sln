@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{88DBC539-D9D8-4318-8B3C-68B3A16BCDBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PucMinas.ControleCursos.Services", "PucMinas.ControleCursos.Services", "{1DCCBD6D-CC46-4036-8359-AD5782C94CCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PucMinas.ControleCursos.Presentation", "PucMinas.ControleCursos.Presentation", "{A81F3858-04BE-4CCC-B3A2-4D58431CBE22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PucMinas.ControleCursos.WebAPI", "PucMinas.ControleCursos.WebAPI\PucMinas.ControleCursos.WebAPI.csproj", "{D1DD335A-B3EE-41C9-A312-909ABA7E6B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PucMinas.ControleCursos.AndroidApp", "PucMinas.ControleCursos.AndroidApp\PucMinas.ControleCursos.AndroidApp.csproj", "{7AFA03B2-882B-47A8-A424-D545D174B7A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1DD335A-B3EE-41C9-A312-909ABA7E6B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DD335A-B3EE-41C9-A312-909ABA7E6B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DD335A-B3EE-41C9-A312-909ABA7E6B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DD335A-B3EE-41C9-A312-909ABA7E6B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFA03B2-882B-47A8-A424-D545D174B7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFA03B2-882B-47A8-A424-D545D174B7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFA03B2-882B-47A8-A424-D545D174B7A3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7AFA03B2-882B-47A8-A424-D545D174B7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFA03B2-882B-47A8-A424-D545D174B7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFA03B2-882B-47A8-A424-D545D174B7A3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1DCCBD6D-CC46-4036-8359-AD5782C94CCA} = {88DBC539-D9D8-4318-8B3C-68B3A16BCDBC}
+		{A81F3858-04BE-4CCC-B3A2-4D58431CBE22} = {88DBC539-D9D8-4318-8B3C-68B3A16BCDBC}
+		{D1DD335A-B3EE-41C9-A312-909ABA7E6B7B} = {1DCCBD6D-CC46-4036-8359-AD5782C94CCA}
+		{7AFA03B2-882B-47A8-A424-D545D174B7A3} = {A81F3858-04BE-4CCC-B3A2-4D58431CBE22}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FC9EF97-4D44-4BEF-8183-1AD78BF3221D}
+	EndGlobalSection
+EndGlobal

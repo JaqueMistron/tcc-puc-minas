@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="PucMinas.ControleCursos.AndroidApp.App">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PucMinas.ControleCursos.AndroidApp.InicioActivity">
+    <Position X="8.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InicioActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PucMinas.ControleCursos.Application.MainActivity">
+    <Position X="8.5" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAEAAGAAAACAABAAAAQIAAAAACAQAAAAAAACEABAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PucMinas.ControleCursos.AndroidApp.Model.Aluno">
+    <Position X="0.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAgCAAAAAAAAAAAAAAACAAAAAAAAAAAAGAEAg=</HashCode>
+      <FileName>Model\Aluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PucMinas.ControleCursos.AndroidApp.Services.AlunoService">
+    <Position X="0.5" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Services\AlunoService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PucMinas.ControleCursos.AndroidApp.ViewModel.AutenticarViewModel">
+    <Position X="4.25" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgMAAAABAAASACIABAAAAAAGAAARAAAAAUAgAAAAA=</HashCode>
+      <FileName>ViewModel\AutenticarViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PucMinas.ControleCursos.AndroidApp.ViewModel.ViewModelLocator">
+    <Position X="4" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABEAAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
