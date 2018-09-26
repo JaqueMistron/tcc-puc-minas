@@ -15,3 +15,8 @@ O projeto foi desenvolvido da seguinte forma:
 Back-end: Web API desenvolvida com o .Net Core e banco de dados Sqlite. Implementação baseada nos padrões DDD (Domain Driven Design) e SOLID.
 
 Front-end: Aplicativo Xamarin Android nativo implementado no padrão MVVM com o auxílio do framework MvvmLight.
+
+IDE: Visual Studio 2017 Community
+
+## APK do Aplicativo
+Para instalar e executar o APK é necessário usar um dispositivo Android ou Android Emulator. O aplicativo foi desenvolvido sobre a versão Android 8.1 (Oreo) e, a versão mínima é o Android 5.0 (API Level 21 - Lollipop).
